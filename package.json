@@ -19,7 +19,7 @@
     "redux": "^4.0.4",
     "save": "^2.4.0",
     "styled-components": "^5.0.0",
-    "xlsx": "^0.15.2"
+    "xlsx": "^0.17.0"
   },
   "scripts": {
     "start": "react-scripts start",
